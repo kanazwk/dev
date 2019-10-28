@@ -1,3 +1,7 @@
+## プルチックの感情の輪
+
+1980年にRobert Plutchikは「感情の輪」を提示した。これは８つの基本感情と、二点の組み合わせからなる８つの応用感情から成り立つ。 Plutchikはまた、24の「一次」、「二次」、および「三次」の2つのダイアド（2つの感情で構成される感情）を理論化しました。
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kanazwk/dev/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
